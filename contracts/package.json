@@ -1,5 +1,5 @@
 {
-  "name": "@openzeppelin/contracts",
+  "name": "@pearlspeignoir/contracts",
   "description": "Secure Smart Contract library for Solidity",
   "version": "3.3.0-solc-0.7",
   "files": [
@@ -22,9 +22,9 @@
     "smart",
     "contracts",
     "security",
-    "zeppelin"
+    
   ],
-  "author": "OpenZeppelin Community <maintainers@openzeppelin.org>",
+  "author": "Pearls Peignoir Community <pearls.peignoir@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/OpenZeppelin/openzeppelin-contracts/issues"
